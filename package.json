@@ -9,9 +9,22 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@prisma/client": "5",
+    "@stripe/stripe-js": "^8.7.0",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "framer-motion": "^12.30.0",
+    "lucide-react": "^0.563.0",
     "next": "16.1.6",
+    "openai": "^6.17.0",
+    "prisma": "5",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-dropzone": "^14.4.0",
+    "recharts": "^3.7.0",
+    "stripe": "^20.3.0",
+    "tailwind-merge": "^3.4.0",
+    "zustand": "^5.0.11"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
